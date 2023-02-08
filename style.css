@@ -1,0 +1,262 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header section */
+header{
+    background-image: url('images/banner/banner2.png');
+    background-repeat: no-repeat;
+    
+    
+}
+.header-section{
+   text-align: right; 
+   margin-right: 230px;
+   padding: 0;
+   
+  
+   
+}
+.header-title{
+    padding-top: 216px;
+    color: #151414;
+    font-weight: 700;
+    font-size: 65px;
+}
+.header-dec{
+    margin-left: 876px;
+    color: #444343;
+    font-size: 16px;
+    
+}
+.btn{
+    margin-bottom: 265px;
+    margin-top: 32px;
+    background-color: #F15B22;
+    padding: 20px 25px;
+    font-weight: 700;
+    color: white;
+    border: 0;
+    border-radius: 4px;
+}
+
+/* main-section */
+
+.main-section {
+    display: flex;
+    max-width: 1072px;
+    margin: 0 auto;
+    align-items: center;
+    gap: 87px;
+}
+.main-section-taitle{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+.dec{
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+.shot-line-parag{
+    margin-top: 8px;
+}
+.shot-line-parag i{
+    color: #0ef848;
+    margin-right: 6px;
+}
+/*  */
+
+.plan-section{
+    
+    max-width: 1072px;
+    margin: 0 auto;
+    align-items: center;
+    gap: 346px;
+    
+}
+.title{
+    text-align: center;
+    margin-top: 130px;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+
+}
+.plan-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.plan-item img{
+    margin-bottom: 24px;
+}
+.plan-item h3{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+.plan-item p{
+    font-weight: 500;
+font-size: 25px;
+color: #737272;
+}
+.photo-section{
+   
+    background-image: url('images/watch.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 124px 0 130px 0;
+   
+    
+    
+}
+.awlays{
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 90%);
+    
+    max-width: 1140px;
+    margin: 0 auto;
+    align-items: center;
+    position: relative;
+    
+    border-radius: 8px;
+    margin-top: 6px;
+   
+}
+
+
+
+.awlays button{
+    padding-left: 64px;
+}
+.content{
+    padding: 59px 0 59px 64px;
+}
+.content h1{
+    font-size: 40px;
+    color: #ffff;
+    max-width: 400px;
+    padding-left: 64px;
+}
+.content button{
+    padding: 20px  36px;
+    border-radius:8px;
+    border: none;
+    margin-top: 24px;
+    font-size: 20px;
+    margin-left: 64px;
+    
+}
+.future-section{
+     background-color: #151414;
+}
+.future-part{
+    display: flex;
+}
+.future{
+    padding: 150px 0 109px 0;
+    
+}
+
+.socal-logo{
+    margin-top: 32px;
+    
+}
+.socal-logo img{
+    margin-right: 16px;
+}
+.footer-title{
+    font-weight: 700;
+font-size: 45px;
+margin-bottom: 16px;
+}
+.future h1{
+    font-size: 45px;
+    color: #ffff;
+}
+.future p{
+    font-size: 16px;
+    max-width: 400px;
+    color: #ffff;
+}
+.contuct p{
+    color: #ffff;
+}
+.contuct p a{
+    text-decoration: none;
+    color: #ffff;
+}
+.subscribe{
+    padding-top: 130px;
+    margin-left: 316px;
+}
+.subscribe h3{
+    font-size: 25px;
+    color: #ffff;
+    font-weight: 600;
+    margin-bottom: 31px;
+}
+.subscribe input{
+    padding: 20px 158px 20px 20px;
+    background-color: #151414;
+    margin-bottom: 8px;
+    border: 2px solid white;
+    border-radius: 4px;
+
+}
+.subscribe button{
+    padding: 20px 36px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    
+}
+.footer-dec{
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+.information{
+    margin-bottom: 16px;
+}
+
+
+
+
+/* -------------
+--------------- */
+.option-title{
+   
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+    text-align: center;
+}
+.skills-container{
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+    max-width: 1072px;
+    margin: 0 auto;
+    align-items: center;
+    margin-bottom: 130px;
+    
+}
+.skill-title{
+    font-weight: 700;
+font-size: 20px;
+margin-bottom: 20px;
+}
+.skill-dec{
+    color: #757575;
+    font-size: 16px;
+}
+.skill{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
